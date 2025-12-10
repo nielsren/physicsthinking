@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Physics Thinking</title>
-    <link>https://nielsren.github.io/physicsthinking/</link>
-    <description>Recent content on Physics Thinking</description>
+    <title>Posts on Physics Thinking</title>
+    <link>https://nielsren.github.io/physicsthinking/post/</link>
+    <description>Recent content in Posts on Physics Thinking</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nielsren.github.io/physicsthinking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nielsren.github.io/physicsthinking/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GithubPages教程</title>
       <link>https://nielsren.github.io/physicsthinking/post/first-post/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://nielsren.github.io/physicsthinking/post/first-post/</guid>
       <description>&lt;p&gt;这是我用 Hugo 搭建的第三篇博客！&lt;/p&gt;&#xA;&lt;p&gt;Hugo 网站更新与发布完整教程（PowerShell + 完整路径版）&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;第一步打开-powershell&#34;&gt;第一步：打开 PowerShell&lt;/h2&gt;&#xA;&lt;p&gt;方法一（推荐）:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;在 Hugo 项目文件夹任意位置按住 Shift + 右键&lt;/li&gt;&#xA;&lt;li&gt;选择“在此处打开 PowerShell 窗口”&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;方法二:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;按 Win + R&lt;/li&gt;&#xA;&lt;li&gt;输入 powershell 回车&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;第二步进入-hugo-网站根目录&#34;&gt;第二步：进入 Hugo 网站根目录&lt;/h2&gt;&#xA;&lt;p&gt;假设 Hugo 项目路径为：&#xA;D:\HugoSites\myblog&lt;/p&gt;&#xA;&lt;p&gt;PowerShell 输入:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd D:\HugoSites\myblog&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;验证是否进入:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;dir&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;应看到:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;content&#xA;themes&#xA;layouts&#xA;static&#xA;config.toml&#xA;public&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;第三步创建新的-markdown-文章文件&#34;&gt;第三步：创建新的 Markdown 文章文件&lt;/h2&gt;&#xA;&lt;p&gt;Hugo 命令创建（推荐）:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new post/first-post.md&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;文章路径:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;D:\HugoSites\myblog\content\post\first-post.md&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;编辑文章内容（示例）:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;title: &amp;#34;我的第一篇 Hugo 文章&amp;#34;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;date: 2025-12-10&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;draft: false&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;这是我的第一篇博客文章。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;注意: draft 必须设为 false 否则不会生成到 public。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>你好，Hugo</title>
-      <link>https://nielsren.github.io/physicsthinking/posts/hello/</link>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://nielsren.github.io/physicsthinking/posts/hello/</guid>
-      <description>&lt;p&gt;这是我用 Hugo 搭建的第一篇博客！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>你好，Hugo</title>
-      <link>https://nielsren.github.io/physicsthinking/posts/physicsfirst/</link>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://nielsren.github.io/physicsthinking/posts/physicsfirst/</guid>
-      <description>&lt;p&gt;这是我用 Hugo 搭建的第二篇博客！&lt;/p&gt;&#xA;&lt;p&gt;以后会在这里更新：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;物理学习方法&lt;/li&gt;&#xA;&lt;li&gt;教学心得&lt;/li&gt;&#xA;&lt;li&gt;课程资料&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
