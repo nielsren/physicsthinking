@@ -6,8 +6,15 @@
     <description>Recent content on Physics Thinking</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nielsren.github.io/physicsthinking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第四篇 Hugo文章-wechat group</title>
+      <link>https://nielsren.github.io/physicsthinking/posts/wechat-group/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nielsren.github.io/physicsthinking/posts/wechat-group/</guid>
+      <description>&lt;h2 id=&#34;微信群&#34;&gt;微信群&lt;/h2&gt;&#xA;&lt;p&gt;今天花了半天时间在思考微信群的问题，如果一个手机用了三五年，在群信里有很多消息，&#xA;如果用的是安卓手机，不同手机、电脑之间聊天记录的分享，不是太好做，但是这个生态在苹果手机上做的就很好，新手机只要点同步，旧手机的所有材料就都可以传递过去。&lt;/p&gt;&#xA;&lt;h2 id=&#34;另一次感觉到苹果好用&#34;&gt;另一次感觉到苹果好用&lt;/h2&gt;&#xA;&lt;p&gt;在前段时间，一直在探索用智能眼镜、蓝牙耳机连接手机，一天总有一两个小时在路上，就想着在路上的时候，可以和ai聊聊天，学学英语，但发现蓝牙连接后，安卓手机很难和ai工具直接交流，这些设备只有在手机处于电话通话状态下，才能使用。除此以外，其他语音互动的情况下，蓝牙都是用不了来的。然而，这件事情在苹果手机上就可以顺畅使用。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>GithubPages教程</title>
       <link>https://nielsren.github.io/physicsthinking/posts/first-post/</link>
