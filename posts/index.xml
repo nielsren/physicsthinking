@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Physics Thinking</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nielsren.github.io/physicsthinking/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Physics Lens</title>
+      <link>https://nielsren.github.io/physicsthinking/posts/physics-lens/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nielsren.github.io/physicsthinking/posts/physics-lens/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://mmbiz.qpic.cn/sz_mmbiz_jpg/00aZpvZHsHiaNFFGOANGMGXHKZwiaWIyGlicuJ3JyoNOZsM7o53s9ykXhu7hPJDQ33JcqzcMkiaCPqm63CkiaxwzL9A/0?from=appmsg&#34; alt=&#34;lens&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;透镜成像公式思考&#34;&gt;透镜成像公式思考&lt;/h2&gt;&#xA;&lt;p&gt;这是最近在思考的一个问题，透镜成像公式是实验性公式，还是推导性公式，从画u-v图，画u+v - u图像看，是可以从画出，再拟合的方面分析出来的，不过物体与透镜、像与透镜之间的三角形，可以近似看成存在相似关系三角形关系，这里需要满足的是必须为薄透镜，只有这样才能看成通过光心的光线是沿直线传播的。&lt;/p&gt;&#xA;&lt;h2 id=&#34;透镜成像公式&#34;&gt;透镜成像公式&lt;/h2&gt;&#xA;&lt;p&gt;$$\frac{1}{u}+\frac{1}{v}=\frac{1}{f}$$​&lt;/p&gt;</description>
+    </item>
     <item>
       <title>我的第四篇 Hugo文章-wechat group</title>
       <link>https://nielsren.github.io/physicsthinking/posts/wechat-group/</link>
