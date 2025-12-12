@@ -16,6 +16,13 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://files.mdnice.com/user/77327/08e7df3c-0352-475b-947c-7fc4da084b68.jpg&#34; alt=&#34;lens&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;透镜成像公式思考&#34;&gt;透镜成像公式思考&lt;/h2&gt;&#xA;&lt;p&gt;这是最近在思考的一个问题，透镜成像公式是实验性公式，还是推导性公式，从画u-v图，画u+v - u图像看，是可以从画出，再拟合的方面分析出来的，不过物体与透镜、像与透镜之间的三角形，可以近似看成存在相似关系三角形关系，这里需要满足的是必须为薄透镜，只有这样才能看成通过光心的光线是沿直线传播的。&lt;/p&gt;&#xA;&lt;h2 id=&#34;透镜成像公式&#34;&gt;透镜成像公式&lt;/h2&gt;&#xA;&lt;p&gt;$$\frac{1}{u}+\frac{1}{v}=\frac{1}{f}$$&lt;/p&gt;</description>
     </item>
     <item>
+      <title>physics-lens-v1</title>
+      <link>https://nielsren.github.io/physicsthinking/posts/physics-lens-v1/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://nielsren.github.io/physicsthinking/posts/physics-lens-v1/</guid>
+      <description>&lt;h2 id=&#34;一图片示例&#34;&gt;一、图片示例&lt;/h2&gt;&#xA;&lt;p&gt;使用 static/images：&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://nielsren.github.io/physicsthinking/images/lens.jpg&#34; alt=&#34;lens&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;自定义大小：&lt;/p&gt;&#xA;&lt;img src=&#34;https://nielsren.github.io/physicsthinking/images/lens.png&#34; width=&#34;300&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;二公式示例&#34;&gt;二、公式示例&lt;/h2&gt;&#xA;&lt;p&gt;行内公式：$F = BIL$&lt;/p&gt;&#xA;&lt;p&gt;独立公式：&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\frac{1}{f} = \frac{1}{u} + \frac{1}{v}&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;洛伦兹力：&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;F = qvB&#xA;$$&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>我的第四篇 Hugo文章-wechat group</title>
       <link>https://nielsren.github.io/physicsthinking/posts/wechat-group/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
