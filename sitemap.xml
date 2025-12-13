@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nielsren.github.io/physicsthinking/posts/group-operation1/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nielsren.github.io/physicsthinking/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nielsren.github.io/physicsthinking/posts/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nielsren.github.io/physicsthinking/posts/physics-lens/</loc>
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nielsren.github.io/physicsthinking/</loc>
-    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nielsren.github.io/physicsthinking/posts/physics-lens-v1/</loc>
-    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nielsren.github.io/physicsthinking/posts/</loc>
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nielsren.github.io/physicsthinking/posts/wechat-group/</loc>
